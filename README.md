@@ -5,7 +5,7 @@ The main software components are:
 1. Gamepad and serial transmission code running on Raspberry Pi Zero W
 2. Serial reception and motor controller code on Arduino Mega+Motor Driver Shield
 
-Resource sites:
+Resource sites:  
 https://ericgoebelbecker.com/post/raspberry-pi-and-gamepad-programming-part-1-reading-the-device/
 https://ericgoebelbecker.com/post/raspberry-pi-and-gamepad-programming-part-2-controlling-the-gopigo/
 https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
